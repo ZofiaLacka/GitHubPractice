@@ -1,2 +1,5 @@
-#Github practice
-My first Repository.
+# Zofia Lacka
+
+ def multiplyTwoNumbers(iNum1, iNum2):
+    return iNum1 * iNum2
+#end
